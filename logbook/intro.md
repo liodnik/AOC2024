@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Last year I finished only 15 puzzles with Go lang. For 2023 I decided to do puzzles with a small number of languages where I am interested in.
+Last year I finished only 15 puzzles with **Go** lang. For **2023** I decided to do puzzles with a small number of languages where I am interested in.
 
-I will do it on my own Windows PC x64 + WSL. I use the (VSCode)[https://code.visualstudio.com].
+I will do it on my own Windows PC x64 + WSL. I use the [VSCode](https://code.visualstudio.com).
 
 | Language      | Version       | Compiler/Interpreter |
 | ------------- |:-------------:| --------------------:|
