@@ -1,5 +1,5 @@
-# Advent of Code 2023
-My solutions to Eric Wastl's [Advent Of Code 2023](https://adventofcode.com/2023)
+# Advent of Code 2024
+My solutions of [Advent Of Code 2024](https://adventofcode.com/2024)
 
 [📝Logbook](./logbook/README.md)
 
